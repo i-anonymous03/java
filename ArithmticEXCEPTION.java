@@ -1,4 +1,4 @@
-class Main {
+class ArithmticEXCEPTION {
     int a=10,b=0;
 
          void set()
